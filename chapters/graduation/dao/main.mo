@@ -273,6 +273,7 @@ actor {
                 };
                 let mentorPrincipal = Principal.fromText("nkqop-siaaa-aaaaj-qa3qq-cai");
                 // ledger.put(mentorPrincipal, 100000);
+                
                 members.put(mentorPrincipal, mentor);
         };
 
